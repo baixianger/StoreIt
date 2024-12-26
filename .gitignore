@@ -30,6 +30,14 @@ build/
 local.properties
 *.iml
 
+# next.js
+#
+.next
+
+# appwrite
+#
+.env.local
+
 # node.js
 #
 node_modules/
